@@ -1,0 +1,18 @@
+{
+  "name": "line-person",
+  "version": "1.0.0",
+  "description": "Real-time line art face and body tracking in the browser",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite": "^5.4.0"
+  }
+}
